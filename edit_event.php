@@ -136,7 +136,7 @@ $conn->close();
             <button type="submit">Update Event</button>
         </form>
         <form action="dashboard.php" method="get">
-            <button type="submit" class="back-dashboard-button">Back to Dashboard</button>
+            <button type="submit" class="back-dashboard-button">Back to the Dashboard</button>
         </form>
     </div>
 </body>
